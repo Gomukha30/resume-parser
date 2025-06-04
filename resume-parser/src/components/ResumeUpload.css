@@ -1,0 +1,81 @@
+.upload-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.upload-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.file-input {
+  padding: 0.5rem;
+  border: 2px dashed #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.upload-button {
+  padding: 0.8rem 1.5rem;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.upload-button:hover {
+  background-color: #45a049;
+}
+
+.error-message {
+  color: #ff4444;
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  background-color: #ffebee;
+  border-radius: 4px;
+}
+
+.resume-summary {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.resume-summary h3 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.resume-summary p {
+  margin: 0.5rem 0;
+}
+
+.resume-summary ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.resume-summary li {
+  background-color: #e3f2fd;
+  padding: 0.5rem;
+  margin: 0.25rem 0;
+  border-radius: 4px;
+}
+
+.resume-experience,
+.resume-skills,
+.resume-summary {
+  white-space: pre-line;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}

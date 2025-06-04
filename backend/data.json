@@ -1,0 +1,362 @@
+[
+    {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "phone": "+1 (555) 123-4567",
+        "skills": [
+            "Agile",
+            "REST APIs",
+            "React",
+            "SQL"
+        ],
+        "experience": [
+            "Full Stack Developer at CodeCraft",
+            "UI/UX Designer at Innovate Solutions"
+        ],
+        "timestamp": "2025-06-04T18:31:01.782988"
+    },
+    {
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "phone": "+1 (555) 234-5678",
+        "skills": [
+            "React",
+            "REST APIs",
+            "Python",
+            "Machine Learning",
+            "Node.js"
+        ],
+        "experience": [
+            "Software Engineer at TechCorp",
+            "Backend Developer at TechCorp"
+        ],
+        "timestamp": "2025-06-04T18:31:01.782998"
+    },
+    {
+        "name": "Robert Johnson",
+        "email": "robert.johnson@example.com",
+        "phone": "+1 (555) 345-6789",
+        "skills": [
+            "AWS",
+            "HTML",
+            "Data Science"
+        ],
+        "experience": [
+            "Data Scientist at CodeSphere",
+            "Full Stack Developer at WebPro"
+        ],
+        "timestamp": "2025-06-04T18:31:01.783003"
+    },
+    {
+        "name": "Emily Wilson",
+        "email": "emily.wilson@example.com",
+        "phone": "+1 (555) 456-7890",
+        "skills": [
+            "HTML",
+            "Django",
+            "SQL",
+            "Deep Learning"
+        ],
+        "experience": [
+            "Product Manager at Innovate Solutions",
+            "Full Stack Developer at TechPulse"
+        ],
+        "timestamp": "2025-06-04T18:31:01.783009"
+    },
+    {
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "phone": "+1 (555) 567-8901",
+        "skills": [
+            "AWS",
+            "CSS",
+            "HTML",
+            "Node.js"
+        ],
+        "experience": [
+            "Backend Developer at TechPulse",
+            "Frontend Developer at TechPulse"
+        ],
+        "timestamp": "2025-06-04T18:31:01.783014"
+    },
+    {
+        "name": "TADIKAMALLASUDHESHNA",
+        "email": "",
+        "phone": "91)9705021664",
+        "skills": [
+            "e xpress.js",
+            "SQL",
+            "React",
+            "JAVA",
+            "Python",
+            "Javascript",
+            "React.js",
+            "JavaScript",
+            "NeuralNetworks",
+            "TailwindCSS",
+            "Keras",
+            "\u2756AIandML:Numpy",
+            "Pandas",
+            "Node.js",
+            "TensorFlo w",
+            "Boots trap",
+            "Java",
+            "Pytorch.",
+            "MatplotLib",
+            "ScikitLearn"
+        ],
+        "experience": [
+            "\u25cfHandledthecompletefrontenddevelopmen t,designedandimplemen tedaresponsiv euserinterface,andensuredseamlessuserinteractions."
+        ],
+        "timestamp": "2025-06-04T18:46:59.529128"
+    },
+    {
+        "name": "TADIKAMALLASUDHESHNA",
+        "email": "gomukhasudheshna@gmail.com",
+        "phone": "+91-9705021664",
+        "skills": [
+            "Python",
+            "SQL",
+            "AWS",
+            "React",
+            "Java",
+            "JavaScript"
+        ],
+        "experience": [
+            "Hands-onexperiencefromacademicprojectsandinternships.",
+            "EDUCATION\nDegreeNameInstitutionNameYearofpassingCGPA/%\nBacheloroftechnologyVelloreinstituteoftechnology-AP20258.51CGPA\nINTERMEDIATESriChaitanyaJuniorCollege202175.8%\nSecondaryschoolSriChaitanyaSchool20199.5CGPA\nACHIEVEMENTS\n\u25cfCertificateofCourseCompletionGenerativeAIinCoursera,2024\n\u25cfCertificateofParticipationinPythonBootcamp-GFG,2024\n\u25cfMemberofMicrosoftStudentChapter(01/2023-05/2023)\nCERTIFICATIONS\n\u25cfNEXTWAVE,FULLSTACKWEBDEVELOPMENT,PYTHON,SQL,JAVASCRIPT,2023-2024\n\u25cfMERNFULLSTACK,ETHNUS,2023\n\u25cfAWSCLOUDPRACTITIONER,AWS,2023SKILLS\nProgrammingSkills:PYTHON,SQL,JAVA,TENSORFLOW,KERAS,SCIKITLEARN,RWebDevelopmentSkills:HTML,CSS,BOOTSTRAP,JAVASCRIPT,MONGODB,REACTJS,NODEJSLanguages:English(Proficient),Telugu(Native),Hindi(Intermediate),French(Beginner)\nINTERNSHIPS\nWebDevelopmentInternCloudTech\n\u2022E-commerceProject:DevelopingandimplementingfeaturesforanonlineshoppingplatformusingHTML,CSS,andJavaScript,focusingonuserexperienceandbackendfunctionality."
+        ],
+        "timestamp": "2025-06-04T18:47:28.197587"
+    },
+    {
+        "name": "TADIKAMALLASUDHESHNA",
+        "email": "",
+        "phone": "91)9705021664",
+        "skills": [
+            "Keras",
+            "ScikitLearn",
+            "JAVA",
+            "React.js",
+            "React",
+            "Node.js",
+            "Pytorch.",
+            "TensorFlo w",
+            "Javascript",
+            "MatplotLib",
+            "Java",
+            "NeuralNetworks",
+            "Boots trap",
+            "TailwindCSS",
+            "SQL",
+            "Pandas",
+            "JavaScript",
+            "e xpress.js",
+            "Python",
+            "\u2756AIandML:Numpy"
+        ],
+        "experience": [
+            "\u25cfHandledthecompletefrontenddevelopmen t,designedandimplemen tedaresponsiv euserinterface,andensuredseamlessuserinteractions."
+        ],
+        "timestamp": "2025-06-04T18:51:22.503208"
+    },
+    {
+        "name": "TADIKAMALLASUDHESHNA",
+        "email": "",
+        "phone": "91)9705021664",
+        "skills": [
+            "React",
+            "Node.js",
+            "SQL",
+            "Java",
+            "AWS",
+            "JavaScript",
+            "Python"
+        ],
+        "experience": [
+            "\u25cfHandledthecompletefrontenddevelopmentandalsotheteamleadoftheproject,designedandimplementedaresponsiveuserinterface,andensuredseamlessuserinteractions."
+        ],
+        "timestamp": "2025-06-04T18:51:52.289994"
+    },
+    {
+        "name": "Sudheshna Tadikamalla",
+        "email": "gomukhasudheshna@gmail.com",
+        "phone": "9705021664",
+        "skills": [
+            "designed and implemented a",
+            "gomukhasudheshna@gmail.com",
+            "team lead of the project",
+            "Mern Full Stack",
+            "React.js",
+            "08/2023 - 12/2023",
+            "Ethnus",
+            "responsive user interface",
+            "applications.",
+            "React",
+            "9705021664",
+            "MongoDB",
+            "Java",
+            "github.com/Gomukha30",
+            "WORK EXPERIENCE",
+            "GUNTUR",
+            "interactions.",
+            "and ensured seamless user",
+            "JavaScript",
+            "India",
+            "Tailwind CSS",
+            "Online(Summer Insternship)",
+            "Postman."
+        ],
+        "experience": [
+            "Sudheshna Tadikamalla \nSoftware Developer \nPassionate about machine learning, deep learning, and web development with experience in Python,\nTensorFlow, and MERN stack.",
+            "gomukhasudheshna@gmail.com \n9705021664 \nGUNTUR, India \nlinkedin.com/in/sudheshna-tadikamalla-955738286 \ngithub.com/Gomukha30 \nWORK EXPERIENCE \nMern Full Stack \nEthnus \n08/2023 - 12/2023\n, \n \nOnline(Summer Insternship) \nHandled the complete frontend development and also the\nteam lead of the project , \ndesigned and implemented a\nresponsive user interface, and ensured seamless user\ninteractions.",
+            "This experience enhanced my frontend expertise and\nstrengthened my ability to build user-friendly web\napplications."
+        ],
+        "timestamp": "2025-06-04T18:52:16.824053"
+    },
+    {
+        "name": "Tadikamalla Sudheshna",
+        "email": "sudutadikamalla@gmail.com",
+        "phone": "+91 9705021664",
+        "skills": [
+            "Internship Sep 2023 - Dec 2023",
+            "Full Stack MERN",
+            "account management",
+            "Ethnus",
+            "applications.",
+            "allowing users to borrow",
+            "React",
+            "return",
+            "Node.js",
+            "admin-side management",
+            "Web Developement",
+            "CSS",
+            "and Node.js for scripting.",
+            "and JavaScript and worked on",
+            "Java",
+            "user interface",
+            "WORK EXPERIENCE",
+            "user safe login",
+            "Virtual",
+            "Internship Aug 2024 - Sep 2024",
+            "Codetech IT Solutions",
+            "React for the",
+            "JavaScript",
+            "innovative projects."
+        ],
+        "experience": [
+            "Web Developement \u2022 Internship Aug 2024 - Sep 2024",
+            "Codetech IT Solutions, Virtual",
+            "\u25cf Developed dynamic web applications using HTML, CSS, and JavaScript and worked on"
+        ],
+        "timestamp": "2025-06-04T18:52:51.048013"
+    },
+    {
+        "name": "TADIKAMALLASUDHESHNA",
+        "email": "gomukhasudheshna@gmail.com",
+        "phone": "+91-9705021664",
+        "skills": [
+            "React",
+            "AWS",
+            "SQL",
+            "JavaScript",
+            "Java",
+            "Python"
+        ],
+        "experience": [
+            "Hands-onexperiencefromacademicprojectsandinternships.",
+            "EDUCATION\nDegreeNameInstitutionNameYearofpassingCGPA/%\nBacheloroftechnologyVelloreinstituteoftechnology-AP20258.51CGPA\nINTERMEDIATESriChaitanyaJuniorCollege202175.8%\nSecondaryschoolSriChaitanyaSchool20199.5CGPA\nACHIEVEMENTS\n\u25cfCertificateofCourseCompletionGenerativeAIinCoursera,2024\n\u25cfCertificateofParticipationinPythonBootcamp-GFG,2024\n\u25cfMemberofMicrosoftStudentChapter(01/2023-05/2023)\nCERTIFICATIONS\n\u25cfNEXTWAVE,FULLSTACKWEBDEVELOPMENT,PYTHON,SQL,JAVASCRIPT,2023-2024\n\u25cfMERNFULLSTACK,ETHNUS,2023\n\u25cfAWSCLOUDPRACTITIONER,AWS,2023SKILLS\nProgrammingSkills:PYTHON,SQL,JAVA,TENSORFLOW,KERAS,SCIKITLEARN,RWebDevelopmentSkills:HTML,CSS,BOOTSTRAP,JAVASCRIPT,MONGODB,REACTJS,NODEJSLanguages:English(Proficient),Telugu(Native),Hindi(Intermediate),French(Beginner)\nINTERNSHIPS\nWebDevelopmentInternCloudTech\n\u2022E-commerceProject:DevelopingandimplementingfeaturesforanonlineshoppingplatformusingHTML,CSS,andJavaScript,focusingonuserexperienceandbackendfunctionality."
+        ],
+        "timestamp": "2025-06-04T19:02:16.003222"
+    },
+    {
+        "name": "TADIKAMALLASUDHESHNA",
+        "email": "gomukhasudheshna@gmail.com",
+        "phone": "+91-9705021664",
+        "skills": [
+            "AWS",
+            "SQL",
+            "Java",
+            "Python"
+        ],
+        "experience": [
+            "Hands-onexperiencefromacademicprojectsandinternships.",
+            "E D U C A T I O N Degree Name Institution Name Yearofpassing CGPA/% Bacheloroftechnology Velloreinstituteoftechnology- A P20258.51 CGPAI N T E R M E D I A T E Sri Chaitanya Junior College202175.8% Secondaryschool Sri Chaitanya School20199.5 CGPA A C H I E V E M E N T S \u25cf Certificateof Participationin Python Bootcamp- G F G,2024 \u25cf Memberof Microsoft Student Chapter(01/2023-05/2023) C E R T I F I C A T I O N S \u25cf F U L L S T A C K W E B D E V E L O P M E N T, P Y T H O N, N E X T W A V E,2023-2024 \u25cf M E R N F U L L S T A C K, E T H N U S,2023 \u25cf AWS C L O U D P R A C T I T I O N E R, AWS,2023 \u25cf A N A L Y Z I N G D A T A W I T H P Y T H O N, I B M,2024 \u25cf C R A S H C O U R S E O N P Y T H O N, G O O G L E,2024 S K I L L S Programming Skills: P Y T H O N, SQL, J A V A AIand M L: N U M P Y, P A N D A S, N E U R A L N E T W O R K, T E N S O R F L O W, K E R A S, S C I K I T L E A R N Web Development Skills: HTML, CSS, T AI L W I N D CSS, B O O T S T R A P, R E A C T JS Languages: English( Proficient), Telugu( Native), Hindi( Intermediate), French( Beginner) I N T E R N S H I P S Web Development Intern Cloud Tech \u2022 E-commerce Project: Developingandimplementingfeaturesforanonlineshoppingplatformusing HTML, CSS,and Java Script,focusingonuserexperienceandbackendfunctionality.",
+            "\u25cf Userauthenticationandrole-basedaccesscontrolforlibrariansandmembers and Real-timebooksearch,borrowing,andreturntracking \u25cf Responsivedesignforaccessibilityacrossvariousdevice Google Play Store App Analytics(01/2023-05/2023) Show Project \u25cf Theanalysisofthedataofinstallationofdifferentcategoriesofappsfromthe Google Play Storeusing R Language."
+        ],
+        "timestamp": "2025-06-04T19:07:47.376067"
+    },
+    {
+        "name": "TADIKAMALLASUDHESHNA",
+        "email": "gomukhasudheshna@gmail.com",
+        "phone": "+91-9705021664",
+        "skills": [
+            "Python",
+            "JavaScript",
+            "AWS",
+            "React",
+            "Java",
+            "SQL"
+        ],
+        "experience": [
+            "Hands-onexperiencefromacademicprojectsandinternships.",
+            "EDUCATION Degree Name Institution Name Yearofpassing CGPA/% Bacheloroftechnology Velloreinstituteoftechnology-AP 20258.51 CGPAINTERMEDIATESri ChAItanya Junior College 202175.8% Secondaryschool Sri ChAItanya School 20199.5 CGPA ACHIEVEMENTS \u25cfCertificateof Course Completion Generative AIin Coursera,2024 \u25cfCertificateof Participationin Python Bootcamp-GFG,2024 \u25cfMemberof Microsoft Student Chapter(01/2023-05/2023) CERTIFICATIONS \u25cfNEXTWAVE,FULLSTACKWEBDEVELOPMENT,PYTHON,SQL,JavaScript,2023-2024 \u25cfMERNFULLSTACK,ETHNUS,2023 \u25cfAWSCLOUDPRACTITIONER,AWS,2023 SKILLS Programming Skills:PYTHON,SQL,JAVA,TENSORFLOW,KERAS,SCIKITLEARN,RWebDevelopment Skills:HTML,CSS,BOOTSTRAP,JavaScript,MONGODB,ReactJS,NodeJSLanguages:English(Proficient),Telugu(Native),Hindi(Intermediate),French(Beginner) INTERNSHIPS WebDevelopment Intern Cloud Tech \u2022E-commerce Project:Developingandimplementingfeaturesforanonlineshoppingplatformusing HTML,CSS,and JavaScript,focusingonuserexperienceandbackendfunctionality.",
+            "\u25cfUserauthenticationandrole-basedaccesscontrolforlibrariansandmembers and Real-timebooksearch,borrowing,andreturntracking \u25cfResponsivedesignforaccessibilityacrossvariousdevice Google Play Store App Analytics(01/2023-05/2023)Show Project \u25cfTheanalysisofthedataofinstallationofdifferentcategoriesofappsfromthe Google Play Storeusing RLanguage."
+        ],
+        "timestamp": "2025-06-04T19:12:05.571556"
+    },
+    {
+        "name": "TADIKAMALLASUDHESHNA",
+        "email": "",
+        "phone": "91)9705021664",
+        "skills": [
+            "SQL",
+            "AWS",
+            "Python",
+            "React",
+            "Java"
+        ],
+        "experience": [
+            "g.,responsiv elayouts,colortheory,userexperienceenhancemen t,andpresentedahigh-fidelityprototypedemons tratingkeyprojectobjectiv es.",
+            "INTERNSHIP AWSCloud Practitioner \u25cfCompletedthe AWSCloud Practitionercertificationcourse,gainingfoundationalknowledgeof AWScloudservices,architecture,andbestpractices.",
+            "POSITIONOFRESPONSIBILITY \u2756Microsoft Student Chapter|Event Manager(Sep t 2022-Oct 2023)Collabor atedinthetechworkshops,hackathons,andcodingchalleng es."
+        ],
+        "timestamp": "2025-06-04T19:13:06.355325"
+    },
+    {
+        "name": "TADIKAMALLASUDHESHNA",
+        "email": "",
+        "phone": "91)9705021664",
+        "skills": [
+            "Python",
+            "SQL",
+            "React",
+            "AWS",
+            "Java"
+        ],
+        "experience": [
+            "g.,responsiv elayouts,colortheory,userexperienceenhancemen t,andpresentedahigh-fidelityprototypedemons tratingkeyprojectobjectiv es.",
+            "INTERNSHIP AWSCloud Practitioner \u25cfCompletedthe AWSCloud Practitionercertificationcourse,gAIningfoundationalknowledgeof AWScloudservices,architecture,andbestpractices.",
+            "POSITIONOFRESPONSIBILITY \u2756Microsoft Student Chapter|Event Manager(Sep t 2022-Oct 2023)Collabor atedinthetechworkshops,hackathons,andcodingchalleng es."
+        ],
+        "timestamp": "2025-06-04T19:13:13.951361"
+    },
+    {
+        "name": "TADIKAMALLASUDHESHNA",
+        "email": "gomukhasudheshna@gmail.com",
+        "phone": "+91-9705021664",
+        "skills": [
+            "Python",
+            "React",
+            "AWS",
+            "JavaScript",
+            "Java"
+        ],
+        "experience": [
+            "Possessasolidfoundationinprogramming,problem-solving,anddatastructures,withhands-onexperiencefromacademicprojectsandinternships.",
+            "EDUCATION Degree Name Institution Name Yearofpassing CGPA Bacheloroftechnology Velloreinstituteoftechnology-AP 20258.49 INTERMEDIATESri ChAItanya Junior College 202175.8% Secondaryschool Sri ChAItanya School 20199.5 ACHIEVEMENTS \u25cfCertificateof Course Completion Image Processing Onramp,2024 \u25cfCertificateof Participationin Python Bootcamp-GFG,2024 \u25cfMemberof Microsoft Student Chapter(01/2023-05/2023) CERTIFICATIONS \u25cfMERNFULLSTACK,ETHNUS,2023 \u25cfAWSCLOUDPRACTITIONER,AWS,2023 \u25cfNPTELCERTIFICATIONSONPython,CLanguag es,NPTEL,2022-2023 SKILLS Programming Skills:JAVA,PYTHON,JavaScript,RWebDevelopment Skills:HTML,CSS,BOOTSTRAP,MONGODB,EXPRESSJS,ReactJS,NodeJSLanguages:English(Proficient),Telugu(Native),Hindi(Intermediate),French(Beginner) INTERNSHIPS AWSCloud Practitioner \u2022Completedthe AWSCloud Practitionercertificationcourse,gAIningfoundationalknowledgeof AWScloudservices,architecture,andbestpractices.",
+            "MERNFULLSTACKINTERN,ETHNUS,Bengaluru,Karnataka,India,Sep 2023 to Nov 2023 Online Library Management System \u2022Developedanonlinelibrarymanagementsystemusingthe MERNstack,featuringsecureuserauthenticationandaresponsive,user-friendlyinterface.",
+            "\u25cfUserauthenticationandrole-basedaccesscontrolforlibrariansandmembers \u25cfReal-timebooksearch,borrowing,andreturntracking \u25cfResponsivedesignforaccessibilityacrossvariousdevice Google Play Store App Analytics(01/2023-05/2023) \u25cfTheanalysisofthedataofinstallationofdifferentcategoriesofappsfromthe Google Play Storeusing RLanguage."
+        ],
+        "timestamp": "2025-06-04T19:13:21.283258"
+    }
+]
