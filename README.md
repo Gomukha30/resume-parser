@@ -39,7 +39,7 @@ chmod +x build.sh  # Make the build script executable
 
 The application will be available at:
 - Frontend: http://localhost:8000
-- API: http://localhost:8000/api
+//- API: http://localhost:8000/api //
 
 ## Development Setup
 
@@ -90,7 +90,7 @@ npm install
 npm start
 ```
 
-The frontend will be available at http://localhost:3000
+The frontend will be available at http://localhost:8000
 
 ## Deployment
 
@@ -159,7 +159,7 @@ npm install
 npm start
 ```
 
-The frontend will run on http://localhost:3000
+The frontend will run on http://localhost:8000
 
 ## Project Structure
 
