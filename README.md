@@ -39,7 +39,6 @@ chmod +x build.sh  # Make the build script executable
 
 The application will be available at:
 - Frontend: http://localhost:8000
-//- API: http://localhost:8000/api //
 
 ## Development Setup
 
