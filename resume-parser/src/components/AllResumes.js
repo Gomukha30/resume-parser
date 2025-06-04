@@ -12,7 +12,7 @@ const AllResumes = () => {
 
   const fetchResumes = async () => {
     try {
-      const response = await axios.get('http://localhost:8000/resumes');
+      const response = await axios.get('/api/resumes');
       setResumes(response.data);
       setLoading(false);
     } catch (err) {

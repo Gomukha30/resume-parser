@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, Blueprint
 from flask_cors import CORS
 import PyPDF2
 import re
@@ -7,8 +7,19 @@ import spacy
 import os
 import datetime
 
-app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}})
+app = Flask(__name__, static_url_path='', static_folder='../frontend/build')
+
+# Configure CORS to allow all origins for development
+CORS(app, resources={
+    r"/api/*": {
+        "origins": ["http://localhost:3000", "http://localhost:8000", "http://frontend:3000"],
+        "methods": ["GET", "POST", "OPTIONS"],
+        "allow_headers": ["Content-Type"]
+    }
+})
+
+# Create a Blueprint for API routes
+api = Blueprint('api', __name__, url_prefix='/api')
 
 # Load spacy model
 nlp = spacy.load("en_core_web_sm")
@@ -24,7 +35,7 @@ SKILLS = [
     "Machine Learning", "Deep Learning", "Data Science"
 ]
 
-@app.route('/upload-resume', methods=['POST'])
+@api.route('/upload-resume', methods=['POST'])
 def upload_resume():
     if 'file' not in request.files:
         return jsonify({"error": "No file provided"}), 400
@@ -65,7 +76,7 @@ def upload_resume():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-@app.route('/resumes', methods=['GET'])
+@api.route('/resumes', methods=['GET'])
 def get_resumes():
     try:
         with open('data.json', 'r') as f:
@@ -266,6 +277,20 @@ def save_resume(resume_data):
         print(f"Error saving resume: {str(e)}")
         raise
 
+# Register the blueprint
+app.register_blueprint(api)
+
+# Serve React App
+@app.route('/')
+def serve_root():
+    return app.send_static_file('index.html')
+
+@app.route('/<path:path>')
+def serve_static(path):
+    if path.startswith('api/'):
+        return 'Not Found', 404
+    return app.send_static_file(path) or app.send_static_file('index.html')
+
 if __name__ == '__main__':
     print("Starting Flask server...")
-    app.run(debug=True, port=8000, host='0.0.0.0')
+    app.run(host='0.0.0.0', port=8000, debug=False)

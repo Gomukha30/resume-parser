@@ -34,7 +34,8 @@ const ResumeUpload = () => {
     formData.append('file', file);
 
     try {
-      const response = await axios.post('http://localhost:8000/upload-resume', formData, {
+      const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:8000/api';
+      const response = await axios.post(`${apiUrl}/upload-resume`, formData, {
         headers: {
           'Content-Type': 'multipart/form-data'
         }
